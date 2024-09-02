@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on building my own personal website using RSTUDIO!
+🌱 I’m currently learning R lol
